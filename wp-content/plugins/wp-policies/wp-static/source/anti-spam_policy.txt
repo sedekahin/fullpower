@@ -1,0 +1,51 @@
+<p>{company} prohibits the use of their website and/or services in any manner 
+  associated with the transmission, distribution or delivery of any unsolicited 
+  bulk or unsolicited commercial e-mail ("Spam"). You may not use any 
+  {company} services to send Spam. You also may not deliver Spam or cause Spam to be 
+  delivered to any customers of {company}.</p>
+<p>In compliance with the CAN-SPAM Act of 2003 (15 U.S.C. 7701, et seq., Public Law No. 108-187, was S.877 of the 108th United States Congress), e-mail sent, or caused to be sent, 
+  to or through the {company} webiste or service may not:</p>
+<ul>
+  <li>use or contain invalid or forged headers;</li>
+  <li>use or contain invalid or non-existent domain names;</li>
+  <li>employ any technique to otherwise misrepresent, hide or obscure any information 
+    in identifying the point of origin or the transmission path;</li>
+  <li>use other means of deceptive addressing;</li>
+  <li>use a third party's internet domain name, or be relayed from or through 
+    a third party's equipment, without permission of the third party;</li>
+  <li>contain false or misleading information in the subject line or otherwise 
+    contain false or misleading content;</li>
+  <li>fail to comply with additional technical standards described below;</li>
+  <li>otherwise violate our Terms of Use.</li>
+</ul>
+<p>{company} does not authorize the harvesting, mining or collection of e-mail 
+  addresses or other information from or through the website or its services. 
+  {company} does not permit or authorize others to use the {company} services 
+  to collect, compile or obtain any information about its customers or subscribers, 
+  including but not limited to subscriber e-mail addresses. </p>
+<p>{company} does not permit or authorize any attempt to use its services in a 
+  manner that could damage, disable, overburden or impair any aspect of any of 
+  the services, or that could interfere with any other party's use and enjoyment 
+  of any {company} service.</p>
+<p>If {company} believes that unauthorized or improper use is being made of any 
+  service, it may, without notice, take such action as it, in its sole discretion, 
+  deems appropriate, including blocking messages from a particular internet domain, 
+  mail server or IP address. {company} may immediately terminate any account on 
+  any service which it determines, in its sole discretion, is transmitting or 
+  is otherwise connected with any e-mail that violates this policy.</p>
+<p>Nothing in this policy is intended to grant any right to transmit or send e-mail 
+  to, or through, the {company} website and/or services. Failure to enforce this 
+  policy in every instance does not amount to a waiver of {company}'s rights.</p>
+<p>Unauthorized use of any {company} services in connection with the transmission 
+  of unsolicited e-mail, including the transmission of e-mail in violation of 
+  this policy, may result in civil, criminal, or administrative penalties against 
+  the sender and those assisting the sender. </p>
+<p>Violators of the CAN SPAM Act may be subject to “cease and desist” 
+  orders or penalties from the FTC (Federal Trade Commission) of up to $11,000 
+  per violation. Criminal prosecution is also possible in the case of egregious 
+  offenders, which can result in penalties such as fines, forfeiture of proceeds 
+  and equipment. The worst offenders can also be subject to prison time.</p>
+<p>{company}<br>
+  {address}<br>
+  {phone}<br>
+  {email}</p>

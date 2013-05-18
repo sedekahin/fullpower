@@ -1,0 +1,14 @@
+{company} makes no representations, warranties, or assurances as to the accuracy, currency or completeness of the content contain on this website or any sites linked to this site. 
+<p><b>Limitation of Liability</b></p>
+<p>THE MATERIALS AT THIS SITE ARE PROVIDED "AS IS" WITHOUT ANY EXPRESS 
+  OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT 
+  OF INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT 
+  SHALL {company} OR ITS AGENTS OR OFFICERS BE LIABLE FOR ANY DAMAGES WHATSOEVER 
+  (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, 
+  LOSS OF INFORMATION, INJURY OR DEATH) ARISING OUT OF THE USE OF OR INABILITY 
+  TO USE THE MATERIALS, EVEN IF {company} HAS BEEN ADVISED OF THE POSSIBILITY 
+  OF SUCH LOSS OR DAMAGES.</p>
+<p>{company} <br>
+  {address}<br>
+  {phone}<br>
+  {email}</p>

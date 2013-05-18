@@ -1,0 +1,9 @@
+<p>The {company} web site may contain links to many other web sites. {company} 
+  cannot guarantee the accuracy of information found at any linked site. Links 
+  to or from external web sites sites not owned or controlled by {company} does not constitute 
+  an endorsement by {company} or any of its employees of the sponsors of these 
+  sites or the products or information presented there.</p>
+<p>{company}<br>
+  {address}<br>
+  {phone}<br>
+  {email}</p>
